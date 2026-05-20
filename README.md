@@ -43,7 +43,7 @@ This is my personal learning journal for my summer break — 30 days of structur
 - [ ] Variables, data types, control flow, functions
 - [ ] OOP — classes, inheritance, file I/O
 - [ ] NumPy — arrays, broadcasting, vectorisation
-- [ ]Pandas — DataFrames, cleaning, groupby, merge
+- [ ] Pandas — DataFrames, cleaning, groupby, merge
 - [ ] Matplotlib + Seaborn — 6 chart types
 - [ ] Statistics — mean, std, correlation, skewness
 - [ ] Full EDA project published
